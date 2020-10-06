@@ -1,22 +1,11 @@
 {
   
-    
-        "post0": {
-            "title": "200 years old Drugstore in Southington, Connecticut",
-            "content": "!wget https://raw.githubusercontent.com/awarischool/data-science/master/image-colorizer/deoldify_wrapper.py . --2020-10-06 22:19:10-- https://raw.githubusercontent.com/awarischool/data-science/master/image-colorizer/deoldify_wrapper.py Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.0.133, 151.101.64.133, 151.101.128.133, ... Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 2614 (2.6K) [text/plain] Saving to: ‘deoldify_wrapper.py’ deoldify_wrapper.py 100%[===================&gt;] 2.55K --.-KB/s in 0s 2020-10-06 22:19:10 (49.9 MB/s) - ‘deoldify_wrapper.py’ saved [2614/2614] . from deoldify_wrapper import DeOldify . Trying to import DeOldify (if installed) No module named &#39;deoldify&#39; DeOldify not found, installing.. Cloning DeOldify Repository... Opening DeOldify Folder Installing Colab requirements... Importing DeOldify . /content/deoldify_wrapper.py:42: UserWarning: WARNING: GPU not available. Activate it on Colab at Edit &gt; Notebook Settings warnings.warn(&#39;WARNING: GPU not available. Activate it on Colab at Edit &gt; Notebook Settings&#39;) . Downloading Colorizer Model . deo = DeOldify() . Initializing Colorizer . /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:442: UserWarning: Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning. warn(&#34;Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning.&#34;) /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:445: UserWarning: Your validation set is empty. If this is by design, use `split_none()` or pass `ignore_empty=True` when labelling to remove this warning. or pass `ignore_empty=True` when labelling to remove this warning.&#34;&#34;&#34;) Downloading: &#34;https://download.pytorch.org/models/resnet101-5d3b4d8f.pth&#34; to /root/.cache/torch/hub/checkpoints/resnet101-5d3b4d8f.pth . Done! . deo.colorize(&#39;https://i.redd.it/qprvtk9xqhq51.jpg&#39;, render_factor=45) .",
-            "url": "https://awarischool.github.io/colorizando-fotos/business/drugstore/2020/10/06/drugstore-southington.html",
-            "relUrl": "/business/drugstore/2020/10/06/drugstore-southington.html",
-            "date": " • Oct 6, 2020"
-        }
-        
-    
-  
 
   
   
 
   
-      ,"page1": {
+      "page1": {
           "title": "About Me",
           "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://awarischool.github.io/colorizando-fotos/about/",
