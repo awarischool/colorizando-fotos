@@ -2,17 +2,39 @@
   
     
         "post0": {
-            "title": "Consequências do crash da bolsa americana em 1929",
-            "content": ". Fonte da imagem: Visão - Crash 1929 | .",
-            "url": "https://awarischool.github.io/colorizando-fotos/business/history/2020/10/07/_10_06_Crash_1929.html",
-            "relUrl": "/business/history/2020/10/07/_10_06_Crash_1929.html",
-            "date": " • Oct 7, 2020"
+            "title": "Grandparents in the 40s",
+            "content": "Fonte da imagem: /r/TheWayWeWere | .",
+            "url": "https://awarischool.github.io/colorizando-fotos/family/old%20picture/2020/10/13/grandparents.html",
+            "relUrl": "/family/old%20picture/2020/10/13/grandparents.html",
+            "date": " • Oct 13, 2020"
         }
         
     
   
     
         ,"post1": {
+            "title": "Old Family",
+            "content": "!wget https://raw.githubusercontent.com/awarischool/data-science/master/image-colorizer/deoldify_wrapper.py . --2020-10-06 22:37:11-- https://raw.githubusercontent.com/awarischool/data-science/master/image-colorizer/deoldify_wrapper.py Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.0.133, 151.101.64.133, 151.101.128.133, ... Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 2614 (2.6K) [text/plain] Saving to: ‘deoldify_wrapper.py’ deoldify_wrapper.py 100%[===================&gt;] 2.55K --.-KB/s in 0s 2020-10-06 22:37:11 (59.9 MB/s) - ‘deoldify_wrapper.py’ saved [2614/2614] . from deoldify_wrapper import DeOldify . deo = DeOldify() . Initializing Colorizer . /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:442: UserWarning: Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning. warn(&#34;Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning.&#34;) /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:445: UserWarning: Your validation set is empty. If this is by design, use `split_none()` or pass `ignore_empty=True` when labelling to remove this warning. or pass `ignore_empty=True` when labelling to remove this warning.&#34;&#34;&#34;) Downloading: &#34;https://download.pytorch.org/models/resnet101-5d3b4d8f.pth&#34; to /root/.cache/torch/hub/checkpoints/resnet101-5d3b4d8f.pth . Done! . deo.colorize(&#39;https://i.redd.it/f0msmwy39cr51.jpg&#39;) .",
+            "url": "https://awarischool.github.io/colorizando-fotos/family/old%20picture/2020/10/12/_10_06_Family.html",
+            "relUrl": "/family/old%20picture/2020/10/12/_10_06_Family.html",
+            "date": " • Oct 12, 2020"
+        }
+        
+    
+  
+    
+        ,"post2": {
+            "title": "Consequências do crash da bolsa americana em 1929",
+            "content": ". Fonte da imagem: Visão - Crash 1929 | .",
+            "url": "https://awarischool.github.io/colorizando-fotos/business/history/2020/10/12/_10_06_Crash_1929.html",
+            "relUrl": "/business/history/2020/10/12/_10_06_Crash_1929.html",
+            "date": " • Oct 12, 2020"
+        }
+        
+    
+  
+    
+        ,"post3": {
             "title": "Title",
             "content": "&quot;Canadian women volunteering as forestry workers in England, 1917&quot; . &quot;The Forestry Corps was created during the First World War when it was discovered that huge quantities of wood were needed for use on the Western Front.&quot; . toc:false- branch: master | badges: true | comments: true | author: Thiago Carneiro | categories: [WWI, England] | . Fonte da Imagem: /r/TheWayWeWere | .",
             "url": "https://awarischool.github.io/colorizando-fotos/2020/10/06/forestry-workers.html",
@@ -23,7 +45,7 @@
     
   
     
-        ,"post2": {
+        ,"post4": {
             "title": "200 years old Drugstore in Southington, Connecticut",
             "content": "Fonte da Imagem: /r/TheWayWeWere | .",
             "url": "https://awarischool.github.io/colorizando-fotos/business/drugstore/2020/10/06/drugstore-southington.html",
@@ -34,7 +56,7 @@
     
   
     
-        ,"post3": {
+        ,"post5": {
             "title": "Parque Municipal (1940)",
             "content": ". Fonte da imagem: SkyscraperCity .",
             "url": "https://awarischool.github.io/colorizando-fotos/belo-horizonte/deoldify/park/2020/10/06/Parque-Municipal-BH-1940.html",
